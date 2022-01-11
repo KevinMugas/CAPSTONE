@@ -1,0 +1,2 @@
+1. to add branch use (git branch <branch_name>)
+2. to to syc Sohan uses (git pull origin master)
